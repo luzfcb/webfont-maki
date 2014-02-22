@@ -1,7 +1,7 @@
 webfont-maki
 ============
 
-Webfont version from open-source Mapbox Maki icons[1][2], build from maki 24px svg files using http://icomoon.io/app/, and css customized by me
+Webfont version from open-source Mapbox Maki icons[1][2], builded from maki 24px svg files using http://icomoon.io/app/, and css options and styles based on Font-Awesome 4 css styles
 
 Based on version 0.4.0 from original Maki icons 
 
