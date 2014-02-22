@@ -16,4 +16,5 @@ usage:
 Licence BSD
 
 [1] http://mapbox.com/maki
+
 [2] https://github.com/mapbox/maki
