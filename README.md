@@ -13,7 +13,7 @@ usage:
 
 
 
-Licence BSD
+Licence CC0 1.0 Universal
 
 [1] http://mapbox.com/maki
 
